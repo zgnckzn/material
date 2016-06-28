@@ -15,6 +15,6 @@ public class MDActivity extends AppCompatActivity {
 
         toolbar = (Toolbar) findViewById(R.id.toolbar);
         toolbar.setTitle("测试MD");
-//        setSupportActionBar(toolbar);
+        setSupportActionBar(toolbar);
     }
 }
